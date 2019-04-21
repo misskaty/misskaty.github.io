@@ -1,0 +1,33 @@
+﻿{
+	"version": 1555844076,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/farm_object-sheet0.png",
+		"images/farm_object-sheet1.png",
+		"images/background.png",
+		"images/list-sheet0.png",
+		"images/hphits.png",
+		"images/next-sheet0.png",
+		"images/back-sheet0.png",
+		"images/board.png",
+		"images/score-sheet0.png",
+		"images/menupanel-sheet0.png",
+		"images/menupanel-sheet1.png",
+		"images/menupanel-sheet2.png",
+		"images/sprite-sheet0.png",
+		"images/x-sheet0.png",
+		"images/call_news-sheet0.png",
+		"images/call_storage-sheet0.png",
+		"images/call_upgrades-sheet0.png",
+		"images/news-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
